@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NoCarWash
+comment1.params=receipt
+comment1.target=boolean\ hasCarwash(Receipt)
+numComments=2

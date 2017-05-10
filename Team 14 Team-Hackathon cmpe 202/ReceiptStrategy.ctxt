@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ReceiptStrategy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PrintReceipt\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=receipt
+comment1.target=boolean\ hasCarwash(Receipt)
+numComments=2

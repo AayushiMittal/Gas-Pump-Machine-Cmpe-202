@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Receipt
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Display\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=bill\ price\ message\ receiptStrategy
+comment1.target=Receipt(double,\ double,\ java.lang.String,\ ReceiptStrategy)
+comment2.params=
+comment2.target=void\ displayReceipt()
+comment2.text=public\ boolean\ hasCarWash()\ {\r\n\ \ \ \ \ \ \ \ return\ printReceipt.hasCarWash(this);\r\n}
+comment3.params=carWash
+comment3.target=void\ setCarWash(boolean)
+comment4.params=
+comment4.target=boolean\ getCarWash()
+comment5.params=
+comment5.target=java.lang.StringBuilder\ getStringBuilder()
+comment6.params=
+comment6.target=boolean\ hasCarWash()
+numComments=7
